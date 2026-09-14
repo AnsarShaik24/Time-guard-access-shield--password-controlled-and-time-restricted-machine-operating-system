@@ -1,0 +1,2 @@
+# Time-guard-access-shield--password-controlled-and-time-restricted-machine-operating-system
+>Title: Time guard access shield-password controlled,time-restricted machine operating system Technologies: Embedded C, ARM7 LPC2148, RTC, LCD, Keypad, Interrupts  • Developed an embedded ARM7-based access control system using Embedded C to manage secure device operation. • Implemented password authentication and real-time monitoring using keypad 
